@@ -7,37 +7,21 @@ I'm on a journey to craft exceptional digital experiences. My passion lies in ba
 <!-- Skills -->
 ## 🚀 Experience and Skills
 
-- **Version Control Systems:**
-  - Git is my go-to for seamless collaboration and efficient code management.
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- **RESTful API Development:**
-  - I specialize in designing and testing APIs that power dynamic interactions with frontend clients and external services.
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
 
-- **Authentication and Authorization:**
-  - I ensure the security of web applications by developing and integrating robust authentication and authorization mechanisms.
 
-- **Automated Testing and Deployment:**
-  - I embrace automation tools like pytest for code quality and utilize Docker for streamlined deployment.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glev-dev&layout=compact&theme=radical)
 
-- **Web Application Security:**
-  - I prioritize understanding and implementing robust principles of web application security.
-
-- **Team Environment Experience:**
-  - Thriving in collaborative environments, I actively contribute to team projects, engaging in pair programming and effective communication.
-
-- **Backend Development Infrastructure:**
-  - From creating remote servers to deploying with WSGI, Gunicorn, and Docker, I manage the backend infrastructure seamlessly.
-
-- **API Interaction and External Services:**
-  - Whether it's developing bots or creating APIs with meticulous documentation, I ensure smooth interaction with external services.
 
 <!-- Contact Section -->
 ## 📬 Let's Connect!
 
 Feel free to connect with me through:
 
-- **[LinkedIn](https://www.linkedin.com/in/andrei-glevich/)**
-- **[Email](mailto:glevich-andrew@yandex.ru)**
-- **[Telegram](https://t.me/Glev_dev)**
+- **[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrei-glevich/)**
+- **[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:studmiit@gmail.com)**
+- **[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Glev_dev)**
 
 Looking forward to any questions, discussions, or exciting collaboration opportunities! 🌟
